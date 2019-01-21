@@ -1,0 +1,13 @@
+This is in a branch.
+Branches are helpful for working on new features within the same repos.
+
+Branches are treated like mini-pull requests, but you handle all of it.
+
+"git branch"
+tells you what branches exist locally
+
+"git branch NEW_NAME"
+Makes a new branch named NEW_NAME
+
+"git checkout EXISTING_BRANCH"
+Moves current branch to EXISTING_BRANCH
