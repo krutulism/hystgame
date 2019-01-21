@@ -1,7 +1,7 @@
 This is in a branch.
-Branches are helpful for doing features without making new remote repos.
+Branches are helpful for working on new features within the same repos.
 
-Branches are treated like mini-pull requests, but designed for only one person.
+Branches are treated like mini-pull requests, but you handle all of it.
 
 "git branch"
 tells you what branches exist locally
